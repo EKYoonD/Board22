@@ -10,8 +10,8 @@
 			"configuration": {
 				"host": "localhost",
 				"port": "3306",
-				"database": "mydb",
-				"url": "jdbc:mysql://localhost:3306/mydb",
+				"database": "mydb720",
+				"url": "jdbc:mysql://localhost:3306/mydb720",
 				"home": "C:\\Program Files\\MySQL\\MySQL Router 8.0",
 				"type": "dev",
 				"properties": {
