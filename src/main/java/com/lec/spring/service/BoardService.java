@@ -60,8 +60,6 @@ public class BoardService {
 		return dao.deleteByUid(uid);
 	}
 	
-	
-	
 }
 
 

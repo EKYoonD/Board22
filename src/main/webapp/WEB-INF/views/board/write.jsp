@@ -25,6 +25,7 @@ function chkSubmit(){
 	if(name == ""){
 		alert("작성자 란은 반드시 입력해야 합니다");
 		frm['name'].focus();
+		return false;
 	}
 	if(subject == ""){
 		alert("제목은 반드시 작성해야 합니다");
